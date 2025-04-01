@@ -8,6 +8,8 @@ Criar, testar e implementar um modelo de regressão linear com dados reais
 
 - **Fonte:** https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64
 
+---
+
 ### Entendendo os Dados:
 ​O conjunto de dados "Classificações de Consumo de Combustível de 2025" fornece informações detalhadas sobre o consumo de combustível de veículos no Canadá para o ano-modelo 2025. Os dados foram atualizados pela última vez em 25 de março de 2025 e estão disponíveis no Portal de Dados Abertos do Canadá.
 
